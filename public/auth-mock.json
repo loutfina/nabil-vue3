@@ -1,0 +1,7 @@
+{
+    "id":1, 
+    "name":"Nabil Loutfi", 
+    "password":"123456", 
+    "roles" :["ITS4U","ROLE1"],
+    "token":"azertyuiopqsdfghjklmwxcbn"
+}
